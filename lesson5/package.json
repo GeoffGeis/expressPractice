@@ -1,0 +1,15 @@
+{
+    "name": "lessonThive",
+    "version": "one_point_zero_point_zero",
+    "description": "Express app that waits for a server 'listen' event",
+    "author": "this guy Tony Pujals I am stalking on github yo",
+    "license": "MIT, I hope",
+    "scripts": {
+        "start": "nodejs app.js"
+    },
+    "dependencies": {
+        "express": "^4.9.7"
+    }
+}
+
+        
