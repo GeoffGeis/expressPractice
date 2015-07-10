@@ -1,0 +1,13 @@
+{
+    "name": "lesson6",
+    "version": "1.0.0",
+    "description": "express app that specifies the address and the port",
+    "author": "Tony Pujals",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodejs app.js"
+    },
+    "dependencies": {
+        "express": "^4.9.7"
+    }
+}        
